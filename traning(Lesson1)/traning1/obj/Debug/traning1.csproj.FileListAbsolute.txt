@@ -1,0 +1,12 @@
+C:\Users\aida\source\repos\traning(Lesson1)\traning1\bin\Debug\traning1.exe.config
+C:\Users\aida\source\repos\traning(Lesson1)\traning1\bin\Debug\traning1.exe
+C:\Users\aida\source\repos\traning(Lesson1)\traning1\bin\Debug\traning1.pdb
+C:\Users\aida\source\repos\traning(Lesson1)\traning1\obj\Debug\traning1.csproj.AssemblyReference.cache
+C:\Users\aida\source\repos\traning(Lesson1)\traning1\obj\Debug\traning1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aida\source\repos\traning(Lesson1)\traning1\obj\Debug\traning1.Properties.Resources.resources
+C:\Users\aida\source\repos\traning(Lesson1)\traning1\obj\Debug\traning1.csproj.GenerateResource.cache
+C:\Users\aida\source\repos\traning(Lesson1)\traning1\obj\Debug\traning1.csproj.CoreCompileInputs.cache
+C:\Users\aida\source\repos\traning(Lesson1)\traning1\obj\Debug\traning1.exe
+C:\Users\aida\source\repos\traning(Lesson1)\traning1\obj\Debug\traning1.pdb
+C:\Users\aida\source\repos\traning(Lesson1)\traning1\obj\Debug\traning1.form.resources
+C:\Users\aida\source\repos\traning(Lesson1)\traning1\obj\Debug\traning1.Form2.resources
